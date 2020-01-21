@@ -39,10 +39,10 @@ By engaging in a creative exercise and investigating computer hardware, students
 
 1. Prompt students to draw what they imagine the inside of a computer to look like, answer who technology is for, and record their feelings about the activity.
 2. Hand out Raspberry Pi computers for examination and comparison to drawings.
-2. Prompt students to share answers of who technology is for and activity feelings.
-3. Relate Manager of Information Technology job description to feedback from students.
-7. Read Hello Ruby, Inside the Computer.
-8. Discuss Ruby's access to technology.
+3. Prompt students to share answers of who technology is for and activity feelings.
+4. Relate Manager of Information Technology job description to feedback from students.
+5. Read Hello Ruby, Inside the Computer.
+6. Discuss Ruby's access to technology.
 	- What can Ruby do?
 	- How does Ruby feel?
 	- What problem does Ruby encounter?
@@ -50,8 +50,8 @@ By engaging in a creative exercise and investigating computer hardware, students
 
 ### Adaptations/Extensions
 
-10. Read But It's Just a Game
-11. Discuss kindness to ourselves when using technology.
+* Read But It's Just a Game
+* Discuss kindness to ourselves when using technology.
 	- What can the main character do?
 	- How does the main character feel?
 	- What problem does the main character encounter?
